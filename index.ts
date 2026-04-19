@@ -1,8 +1,6 @@
 import { Client, GatewayIntentBits, Events } from "discord.js";
 import { loadCommands } from "./commands/index.js";
-commands/
- ├── index.js
- ├── asra3.js
+
 
 const token = process.env.DISCORD_TOKEN;
 
